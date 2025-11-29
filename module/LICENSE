@@ -14,10 +14,11 @@ This is the license of the VFX Module of the plugin.
 End of Preamble.
 
 1. Definitions
-  - "We" or "Us" means the copyright holder.
-  - "You" means any individual who are granted the rights of this license.
+  - "We" or "Us" refers to the copyright holder.
+  - "You" means any individual exercising the rights of this license.
   - "Module" means the source code that is used to play vfx in-game and any compiled form of it.
   - "Derivative Work" means any work based on, derived from, or incorporating the Module.
+  - "Plugin" the plugin that is used to create VFX to emit using this Module. (https://vfxer.pages.dev/plugin)
 
 2. Grant of Rights
   - You may distribute the Module or Derivative Works **only** if you include an unaltered copy of this license.
@@ -30,7 +31,7 @@ End of Preamble.
   run in the context mentioned in Section 2, any other context like plugin or other developer tools are not allowed.
 
 4. Warranty
-  The Module is provided **“as is”**, without any warranty, express or implied,
+  The Module is provided **"as is"**, without any warranty, express or implied,
   including merchantability, fitness for a particular purpose, or non-infringement.
 
 5. Liability
@@ -40,8 +41,8 @@ End of Preamble.
 6. Termination
   This license ends automatically if you break any of its rules.
   Upon termination, you must stop all use and distribution of the Module and any Derivative Works.
-  The copyright holder may also revoke your access to other tools (plugin) or services they provide.
-  We may also revoke or terminate this license at any time, for any reason.
+  The copyright holder may also revoke your access to other tools (Plugin) or services they provide.
+  We may also revoke or terminate your license at any time, for any reason.
 
 7. Versioning
   The copyright holder may update the license with notice.
