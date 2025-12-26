@@ -3,7 +3,7 @@
         "name": "Simple Mesh VFX",
         "icon": 15045440879,
         "open_source": true,
-        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more"
+        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
         "install": true
     },
     "+Attributes": {
