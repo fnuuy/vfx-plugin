@@ -27,5 +27,10 @@
     "TestAddon": {
         "name": "Test add-on",
         "pre": true
+    },
+    "LightningBeams": {
+	    "icon": 135685539245137,
+	    "name": "Lightning Beam VFX",
+	    "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck"
     }
 }
