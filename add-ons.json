@@ -27,7 +27,7 @@
     "Craters": {
 		"icon": 1903246113,
         "name": "Ground Craters",
-		"description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)"
+		"description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)",
         "pre": true
     },
     "LightningBeams": {
