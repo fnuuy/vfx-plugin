@@ -26,8 +26,8 @@
     },
     "Craters": {
 		"icon": 1903246113,
-        "name": "Craters (3 types)",
-		"description": "Ground/wall debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)"
+        "name": "Craters",
+		"description": "Debris that adapts to the surface it's on\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)"
     },
     "LightningBeams": {
 	    "icon": 135685539245137,
