@@ -2,15 +2,7 @@
     "SimpleMeshVFX": {
         "name": "Simple Mesh VFX",
         "icon": 15045440879,
-        "open_source": true,
-        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
-        "install": true
-    },
-    "+Attributes": {
-        "name": "More attributes & util",
-        "icon": 136882854117051,
-        "description": "Makes it easier to add plugin attributes\n- EmitIgnore, EmitClone, ResetOnFinish\n- They are built-in (don't require add-on)\n- not finished yet (3 more attributes)",
-        "open_source": true
+        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more"
     },
     "ScreenEffects": {
         "name": "Screen effects",
@@ -28,14 +20,12 @@
 		"icon": 1903246113,
         "name": "Craters (advanced)",
 		"description": "Debris that adapts to the surface it's on\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)",
-		"open_source": true,
 		"install": true
     },
     "LightningBeams": {
 	    "icon": 135685539245137,
 	    "name": "Lightning Beam VFX",
 	    "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck",
-		"open_source": true,
 		"install": true
     }
 }
