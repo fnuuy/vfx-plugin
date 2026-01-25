@@ -2,7 +2,8 @@
     "SimpleMeshVFX": {
         "name": "Simple Mesh VFX",
         "icon": 15045440879,
-        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more"
+        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
+		"install": true
     },
     "ScreenEffects": {
         "name": "Screen effects",
@@ -14,7 +15,8 @@
         "name": "Animation util",
         "icon": 99465108416174,
         "iconScale": 0.6,
-        "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis"
+        "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis",
+		"install": true
     },
     "Craters": {
 		"icon": 1903246113,
