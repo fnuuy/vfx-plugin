@@ -22,7 +22,8 @@
 		"icon": 1903246113,
         "name": "Craters (advanced)",
 		"description": "Debris that adapts to the surface it's on\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)",
-		"install": true
+		"install": true,
+		"version": 1
     },
     "LightningBeams": {
 	    "icon": 135685539245137,
