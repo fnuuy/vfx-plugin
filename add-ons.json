@@ -1,34 +1,34 @@
 {
-    "SimpleMeshVFX": {
-        "name": "Simple Mesh VFX",
-        "icon": 15045440879,
-        "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
-		"install": true
-    },
-    "ScreenEffects": {
-        "name": "Screen effects",
-        "icon": 97990680261359,
-        "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
-        "install": true
-    },
-    "AnimationUtil": {
-        "name": "Animation util",
-        "icon": 99465108416174,
-        "iconScale": 0.6,
-        "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis",
-		"install": true
-    },
-    "Craters": {
-		"icon": 1903246113,
-        "name": "Craters (advanced)",
-		"description": "Debris that adapts to the surface it's on\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)",
-		"install": true,
-		"version": 1
-    },
-    "LightningBeams": {
-	    "icon": 135685539245137,
-	    "name": "Lightning Beam VFX",
-	    "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck",
-		"install": true
-    }
+  "LightningBeams": {
+    "name": "Lightning Beam VFX",
+    "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck",
+    "icon": 135685539245137,
+    "install": true
+  },
+  "AnimationUtil": {
+    "name": "Animation util",
+    "iconScale": 0.6,
+    "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis",
+    "icon": 99465108416174,
+    "install": true
+  },
+  "ScreenEffects": {
+    "icon": 97990680261359,
+    "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
+    "name": "Screen effects",
+    "install": true
+  },
+  "SimpleMeshVFX": {
+    "icon": 15045440879,
+    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
+    "name": "Simple Mesh VFX",
+    "install": true
+  },
+  "Craters": {
+    "name": "Craters (advanced)",
+    "version": 1,
+    "description": "Debris that adapts to the surface it's on\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)",
+    "icon": 1903246113,
+    "install": true
+  }
 }
