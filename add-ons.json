@@ -1,8 +1,8 @@
 {
   "LightningBeams": {
-    "name": "Lightning Beam VFX",
     "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck",
     "icon": 135685539245137,
+    "name": "Lightning Beam VFX",
     "install": true
   },
   "AnimationUtil": {
@@ -13,15 +13,15 @@
     "install": true
   },
   "ScreenEffects": {
-    "icon": 97990680261359,
     "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
     "name": "Screen effects",
+    "icon": 97990680261359,
     "install": true
   },
   "SimpleMeshVFX": {
-    "icon": 15045440879,
     "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
     "name": "Simple Mesh VFX",
+    "icon": 15045440879,
     "install": true
   },
   "Craters": {
