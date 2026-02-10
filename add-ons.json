@@ -18,11 +18,6 @@
     "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
     "install": true
   },
-  "Splines": {
-    "name": "Splines (Beziers)",
-    "icon": 95062868270566,
-    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n"
-  },
   "SimpleMeshVFX": {
     "name": "Simple Mesh VFX",
     "icon": 15045440879,
