@@ -1,8 +1,9 @@
 {
   "LightningBeams": {
     "name": "Lightning Beam VFX",
-    "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck",
-    "icon": 135685539245137,
+    "version": "1",
+    "description": "Procedural Lightning Effect\n- Attachments based (A -> B)\n- Customizable structure and animation\n- Uses Lightning Beams by Quasiduck\n",
+    "icon": 71267230766980,
     "install": true
   },
   "AnimationUtil": {
@@ -13,21 +14,9 @@
     "install": true
   },
   "ScreenEffects": {
-    "icon": 97990680261359,
     "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
     "name": "Screen effects",
-    "install": true
-  },
-  "Splines": {
-    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
-    "pre": true,
-    "icon": 95062868270566,
-    "name": "Splines (Beziers)"
-  },
-  "SimpleMeshVFX": {
-    "icon": 15045440879,
-    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
-    "name": "Simple Mesh VFX",
+    "icon": 97990680261359,
     "install": true
   },
   "Craters": {
@@ -36,5 +25,17 @@
     "description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)\n",
     "icon": 1903246113,
     "install": true
+  },
+  "SimpleMeshVFX": {
+    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more",
+    "name": "Simple Mesh VFX",
+    "icon": 15045440879,
+    "install": true
+  },
+  "Splines": {
+    "pre": true,
+    "name": "Splines (Beziers)",
+    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
+    "icon": 95062868270566
   }
 }
