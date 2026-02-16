@@ -14,22 +14,9 @@
     "install": true
   },
   "ScreenEffects": {
-    "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
     "name": "Screen effects",
     "icon": 97990680261359,
-    "install": true
-  },
-  "Splines": {
-    "pre": true,
-    "name": "Splines (Beziers)",
-    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
-    "icon": 95062868270566
-  },
-  "SimpleMeshVFX": {
-    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more\n",
-    "version": 2,
-    "name": "Simple Mesh VFX",
-    "icon": 129403951129167,
+    "description": "- ImpactFrames (CCE)\n- CameraShake (with presets)\n- Camera weld (VFX on screen)\nImpactFrames emit, others enable",
     "install": true
   },
   "Craters": {
@@ -38,5 +25,18 @@
     "description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)\n",
     "icon": 1903246113,
     "install": true
+  },
+  "SimpleMeshVFX": {
+    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more\n",
+    "version": 2,
+    "name": "Simple Mesh VFX",
+    "icon": 129403951129167,
+    "install": true
+  },
+  "Splines": {
+    "pre": true,
+    "icon": 95062868270566,
+    "name": "Splines (Beziers)",
+    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n"
   }
 }
