@@ -31,7 +31,8 @@
     "version": 3,
     "name": "Simple Mesh VFX",
     "icon": 129403951129167,
-    "install": true
+    "install": true,
+    "open_source": true
   },
   "Splines": {
     "pre": true,
