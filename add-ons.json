@@ -9,7 +9,7 @@
   "AnimationUtil": {
     "name": "Animation util",
     "iconScale": 0.6,
-    "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis",
+    "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis\n",
     "icon": 99465108416174,
     "install": true
   },
@@ -20,11 +20,12 @@
     "icon": 97990680261359,
     "install": true
   },
-  "Splines": {
-    "pre": true,
-    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
-    "icon": 95062868270566,
-    "name": "Splines (Beziers)"
+  "Craters": {
+    "name": "Ground Craters",
+    "version": 1,
+    "description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)\n",
+    "icon": 1903246113,
+    "install": true
   },
   "SimpleMeshVFX": {
     "open_source": true,
@@ -34,11 +35,10 @@
     "icon": 129403951129167,
     "install": true
   },
-  "Craters": {
-    "name": "Ground Craters",
-    "version": 1,
-    "description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)\n",
-    "icon": 1903246113,
-    "install": true
+  "Splines": {
+    "pre": true,
+    "name": "Splines (Beziers)",
+    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
+    "icon": 95062868270566
   }
 }
