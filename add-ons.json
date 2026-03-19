@@ -38,7 +38,6 @@
   "Splines": {
     "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
     "name": "Splines (Beziers)",
-    "pre": true,
     "version": 3,
     "icon": 113757909473142,
     "install": true
