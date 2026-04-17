@@ -20,32 +20,32 @@
     "icon": 97990680261359,
     "install": true
   },
-  "Splines": {
-    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
-    "name": "Splines (beziers)",
-    "version": 5,
-    "icon": 113757909473142,
-    "install": true
-  },
-  "Sequencer": {
-    "description": "Sequence any property/attrib over time\n- Can ColorSequence any Color3 value!!\n- Supports in/out durs when no set time\n  (on Enable do half, on Disable do other)\n",
-    "icon": 109852029680150,
-    "version": 1,
-    "name": "Sequencer (tween/curve)"
-  },
-  "SimpleMeshVFX": {
-    "open_source": true,
-    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more\n",
-    "version": 5,
-    "name": "Simple Mesh VFX",
-    "icon": 129403951129167,
-    "install": true
-  },
   "Craters": {
     "name": "Ground Craters",
     "version": 1,
     "description": "Ground debris that adapts to the surface\n- Supports [Ring, Cone, Line] shapes\n- Supports fill, and many more options\n- by @diminutives (discord)\n",
     "icon": 1903246113,
+    "install": true
+  },
+  "Sequencer": {
+    "name": "Sequencer (tween/curve)",
+    "version": 1,
+    "description": "Sequence any property/attrib over time\n- Can ColorSequence any Color3 value!!\n- Supports in/out durs when no set time\n  (on Enable do half, on Disable do other)\n",
+    "icon": 109852029680150
+  },
+  "SimpleMeshVFX": {
+    "open_source": true,
+    "description": "A Mesh emitter with Start/End format\n- Supports decal tweens & flipbooks\n- MeshParts, Parts, Unions, SpecialMesh\n- EmitCount, SpreadAngle, and more\n",
+    "version": 6,
+    "name": "Simple Mesh VFX",
+    "icon": 129403951129167,
+    "install": true
+  },
+  "Splines": {
+    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
+    "name": "Splines (beziers)",
+    "version": 5,
+    "icon": 113757909473142,
     "install": true
   }
 }
