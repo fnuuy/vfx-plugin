@@ -1,9 +1,9 @@
 {
-  "Craters": {
-    "name": "Ground Craters",
-    "version": 4,
-    "description": "    Ground debris that adapts to the surface\n    - Supports [Ring, Cone, Line] shapes\n    - Supports fill, and many more options\n    - CraterIgnore tag for ignoring parts.\n    - by @diminutives (discord)\n    ",
-    "icon": 1903246113,
+  "Splines": {
+    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
+    "name": "Splines (beziers)",
+    "version": 6,
+    "icon": 113757909473142,
     "install": true
   },
   "LightningBeams": {
@@ -13,11 +13,11 @@
     "icon": 71267230766980,
     "install": true
   },
-  "AnimationUtil": {
-    "name": "Animation util",
-    "iconScale": 0.6,
-    "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis\n",
-    "icon": 99465108416174,
+  "Craters": {
+    "name": "Ground Craters",
+    "version": 3,
+    "description": "    Ground debris that adapts to the surface\n    - Supports [Ring, Cone, Line] shapes\n    - Supports fill, and many more options\n    - CraterIgnore tag for ignoring parts.\n    - by @diminutives (discord)\n    ",
+    "icon": 1903246113,
     "install": true
   },
   "ScreenEffects": {
@@ -27,17 +27,17 @@
     "icon": 97990680261359,
     "install": true
   },
-  "Sequencer": {
-    "version": 3,
-    "name": "Sequencer (tween/curve)",
-    "icon": 109852029680150,
-    "description": "Sequence any property/attrib over time\n- Can ColorSequence any Color3 value!!\n- Supports in/out durs when no set time\n  (on Enable do half, on Disable do other)\n"
-  },
   "Debris": {
-    "description": "Spawn debris (orbit, tornado, explode)\n- Supports parts/models/meshes\n- Requires Splines (beziers) add-on\n- Has a path visualize for most modes\n",
-    "icon": 98955819925364,
+    "name": "Debris (physics)",
     "version": 2,
-    "name": "Debris (physics)"
+    "description": "Spawn debris (orbit, tornado, explode)\n- Supports parts/models/meshes\n- Requires Splines (beziers) add-on\n- Has a path visualize for most modes\n",
+    "icon": 98955819925364
+  },
+  "Sequencer": {
+    "description": "Sequence any property/attrib over time\n- Can ColorSequence any Color3 value!!\n- Supports in/out durs when no set time\n  (on Enable do half, on Disable do other)\n",
+    "icon": 109852029680150,
+    "version": 3,
+    "name": "Sequencer (tween/curve)"
   },
   "SimpleMeshVFX": {
     "open_source": true,
@@ -47,11 +47,11 @@
     "icon": 129403951129167,
     "install": true
   },
-  "Splines": {
-    "description": "Move & Emit along Spline Paths\n- Attachment points (1, 2, ... End)\n- Customizable shape emission & Hitbox\n- +Comes with Particle Path Visualizer\n",
-    "name": "Splines (beziers)",
-    "version": 6,
-    "icon": 113757909473142,
+  "AnimationUtil": {
+    "name": "Animation util",
+    "iconScale": 0.6,
+    "description": "- Spoof animation id\n- Import from blender\n- Add event to keyframe\n- Flip animation on x-axis\n",
+    "icon": 99465108416174,
     "install": true
   }
 }
